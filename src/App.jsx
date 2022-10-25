@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './style.js';
-import { Navbar, Hero, Footer, Card, Button, About, Projects, ToTopButton } from './components';
+import { Navbar, Hero, Footer, About, Projects, ToTopButton } from './components';
 
 const App = () => {
 
