@@ -1,6 +1,6 @@
 import React from 'react';
 import Card from './Card';
-import styles from '../style';
+import styles from '../style.js';
 import { skills } from '../constants';
 import {pgSQL,python,tableau,tf2,twcss,reactSVG,js} from '../assets';
 

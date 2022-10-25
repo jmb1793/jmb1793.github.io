@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { navLinks } from '../constants';
-import {close, menu, house} from '../assets';
+import {close, menu} from '../assets';
 
 const Navbar = () => {
     const [active, setActive] = useState("Home");

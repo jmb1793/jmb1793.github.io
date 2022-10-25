@@ -1,5 +1,5 @@
 import React, { useState, useRef } from 'react';
-import { form } from '../style';
+import { form } from '../style.js';
 import axios from "axios";
 import ReCAPTCHA from 'react-google-recaptcha';
 

@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { form } from '../style';
+import { form } from '../style.js';
 
 const Button = (props) => {
 
