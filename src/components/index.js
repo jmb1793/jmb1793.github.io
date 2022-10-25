@@ -1,12 +1,12 @@
-import Navbar from './Navbar';
-import Hero from './Hero';
-import Footer from './Footer';
-import Projects from './Projects';
-import Card from './Card';
-import Button from './Button';
-import About from './About';
-import Contact from './Contact';
-import ToTopButton from './ToTopButton';
+import Navbar from './Navbar.jsx';
+import Hero from './Hero.jsx';
+import Footer from './Footer.jsx';
+import Projects from './Projects.jsx';
+import Card from './Card.jsx';
+import Button from './Button.jsx';
+import About from './About.jsx';
+import Contact from './Contact.jsx';
+import ToTopButton from './ToTopButton.jsx';
 
 export {
     Navbar,
