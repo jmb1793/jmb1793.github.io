@@ -1,9 +1,7 @@
-// import React from 'react'
-// import ReactDOM from 'react-dom/client'
-import App from './App.jsx';
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import App from './App.js';
 import './index.css';
-React = require('react');
-ReactDOM = require('react-dom/client');
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
