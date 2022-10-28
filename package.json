@@ -12,9 +12,7 @@
     "deploy": "gh-pages -b master -d build"
   },
   "dependencies": {
-    "@fullpage/react-fullpage": "^0.1.28",
     "axios": "^1.1.3",
-    "fullpage.js": "^4.0.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-google-recaptcha": "^2.1.0"
