@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "private": true,
+  "private": false,
   "version": "0.0.1",
   "homepage": "https://jmb1793.github.io/",
   "type": "module",
